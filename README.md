@@ -1,2 +1,2 @@
-# Forkify Project
+# Forkify Project JS
 
